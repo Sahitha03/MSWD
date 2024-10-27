@@ -1,0 +1,33 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 15vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #40ddf8;
+  min-height: 85vh;
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(17, 255, 0);
+
+}
+
+
+.App-login {
+  background-color: #f29e1f;
+ min-width: 350px;
+ min-height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
